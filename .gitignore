@@ -1,0 +1,12 @@
+
+__pycache__/
+.vscode/
+*.json
+.DS_Store
+*.txt
+*.png 
+*.x
+*.csv 
+FinalExports/
+oldChannelExports/
+
