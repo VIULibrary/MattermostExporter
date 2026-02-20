@@ -92,12 +92,7 @@ Increase the sleep period avoid API rate limits as needed.
 sleep 2  # Change from 1 to 2 seconds
 ```
 
-## License
 
-MIT License - feel free to use and modify as needed.
 
-## Contributing
-
-Contributions welcome! Please open an issue or submit a pull request.
 
 
